@@ -14,4 +14,7 @@ if(!$connection->set_charset("utf8")){
         $connection->error);
     exit ();
 }
+/*
+vamos a ver si funciona
+*/
 ?>
